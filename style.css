@@ -214,6 +214,11 @@ hr:not([size]){
 .footer-nav{
     color: #c6ded9;
 }
+.copy-rights{
+    color: #ca7275;
+    background-color: #cf0511;
+    margin: auto;
+}
 
 
 
