@@ -162,14 +162,18 @@ hr:not([size]){
     color: #d0141f;
     background-color: inherit;
 }
+video{
+    object-fit: cover;
+}
 .video{
     position: relative;
-}
-.featured-video{
-    margin: 0;
-    padding: 0;
     width: 100%;
     height: 302px;
+    border: 10px solid white;
+}
+.featured-video{  
+    margin: 0;
+    padding: 0;
 }
 .video-icon-bg{ 
     position: absolute;
